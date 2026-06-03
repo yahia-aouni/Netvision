@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Testing
+coverage/
+
+# Temporary
+tmp/
+temp/
+.cache/
+
+# Lib folder (pnpm store link)
+lib/
+
+# TypeScript
+*.tsbuildinfo
+
+# Vercel
+.vercel/
