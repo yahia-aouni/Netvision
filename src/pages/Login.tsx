@@ -129,13 +129,13 @@ const Login: React.FC = () => {
             </Link>
           </p>
 
-          {/* Demo Credentials */}
+          Demo Credentials
           <div className="mt-6 p-4 bg-gray-50 rounded-xl">
-            <p className="text-xs text-gray-500 text-center mb-2">بيانات الدخول التجريبية:</p>
-            <div className="text-xs text-gray-600 space-y-1">
+            {/* <p className="text-xs text-gray-500 text-center mb-2">بيانات الدخول التجريبية:</p> */}
+            {/* <div className="text-xs text-gray-600 space-y-1">
               <p><strong>أدمن:</strong> admin@netvision.dz / admin123</p>
               <p><strong>مستخدم:</strong> user@example.com / user123</p>
-            </div>
+            </div> */}
           </div>
         </div>
 
