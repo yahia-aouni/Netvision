@@ -129,7 +129,7 @@ const Login: React.FC = () => {
             </Link>
           </p>
 
-          Demo Credentials
+          
           <div className="mt-6 p-4 bg-gray-50 rounded-xl">
             {/* <p className="text-xs text-gray-500 text-center mb-2">بيانات الدخول التجريبية:</p> */}
             {/* <div className="text-xs text-gray-600 space-y-1">
